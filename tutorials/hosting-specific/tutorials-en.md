@@ -45,3 +45,4 @@ This is a list of links with tutorials on how to upgrade the PHP version on a sp
 * [Vultr](https://www.vultr.com/docs/upgrade-to-php-7-on-the-vultr-wordpress-app)
 * [WebFaction](https://docs.webfaction.com/software/php.html?highlight=php%20version#upgrade-to-another-php-version)
 * [WP Engine](https://wpengine.com/support/php-7-faq/)
+* [Namecheap]: Login to your dashbord -->Go to cPanel -->Scroll down and open PHP Selector -->Then select PHP 7.4, and set it as current. Voilà! 
